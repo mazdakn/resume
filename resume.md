@@ -1,4 +1,4 @@
-# Maz Nasab
+# Maz Nasab {#identifier .title}
 604 722 8959 | [mazdak.nasab@gmail.com](mailto:mazdak.nasab@gmail.com) | Vancouver, Canada<br/>
 [github.com/mazdakn](github.com/mazdakn) | [www.linkedin.com/in/mazdakn/](www.linkedin.com/in/mazdakn/)
 
@@ -8,7 +8,7 @@
 - Proficient in **Linux Network Stack, System Development, Network Programming** and **Automation**
 - Advanced knowledge of **open source ecosystem** for building high available infrastructure
 
-### RECENT EXPERIENCE
+### RECENT EXPERIENCE {#identifier .heading2}
 
 _**Senior Software Engineer** | Tigera, Vancouer, Canada | May 2021 - Present_
 
