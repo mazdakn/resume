@@ -1,6 +1,6 @@
-# Maz Nasab {#identifier .title}
-604 722 8959 | [mazdak.nasab@gmail.com](mailto:mazdak.nasab@gmail.com) | Vancouver, Canada<br/>
-[github.com/mazdakn](github.com/mazdakn) | [www.linkedin.com/in/mazdakn/](www.linkedin.com/in/mazdakn/)
+# Maz Nasab
+Vancouver, Canada | 604 722 8959<br/>
+[mazdak.nasab@gmail.com](mailto:mazdak.nasab@gmail.com) | [github.com/mazdakn](github.com/mazdakn) | [www.linkedin.com/in/mazdakn/](www.linkedin.com/in/mazdakn/)
 
 - **MSc in Computer Science, Networks and Distributed Systems**
 - **Over 10 years** of experience designing and developing secure, robust and innovative network systems
@@ -8,7 +8,7 @@
 - Proficient in **Linux Network Stack, System Development, Network Programming** and **Automation**
 - Advanced knowledge of **open source ecosystem** for building high available infrastructure
 
-### RECENT EXPERIENCE {#identifier .heading2}
+### RECENT EXPERIENCE
 
 _**Senior Software Engineer** | Tigera, Vancouer, Canada | May 2021 - Present_
 
