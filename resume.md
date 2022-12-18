@@ -1,16 +1,6 @@
-<style>
-.heading1 {
-    color: red;
-    font-weight:700;
-    font-size: 35px;
-	text-align: center;
-}
-</style>
-
-# Maz Nasab {#identifier .heading1}
+# Maz Nasab
 +1 604 722 8959 | [mazdak.nasab@gmail.com](mailto:mazdak.nasab@gmail.com) | Vancouver, Canada<br/>
 [github.com/mazdakn](github.com/mazdakn) | [www.linkedin.com/in/mazdakn/](www.linkedin.com/in/mazdakn/)
-
 
 - **MSc in Computer Science, Networks and Distributed Systems**
 - **Over 10 years** of experience designing and developing secure, robust and innovative network systems
@@ -59,8 +49,8 @@ _**Researcher** | Ericsson, Sweden | 2011 - 2012_<br/>
 - Designed and prototyped a file system integrity function using virtual machines introspection in Xen
 
 ### EDUCATION
-**MSc in Computer Science** - Chalmers University of Technology, Sweden - 2013<br/>
-**BSc in Electrical Engineering** - Iran University of Science and Technology, Iran - 2009<br/>
+**MSc in Computer Science** | Chalmers University of Technology, Sweden | 2013<br/>
+**BSc in Electrical Engineering** | Iran University of Science and Technology, Iran | 2009<br/>
 
 ### SKILLS
 **Programming & Automation:** C, Go, Rust, Ansible, Python<br/>
