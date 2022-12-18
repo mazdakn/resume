@@ -8,7 +8,7 @@
 - Proficient in **Linux Network Stack, System Development, Network Programming** and **Automation**
 - Advanced knowledge of **open source ecosystem** for building high available infrastructure
 
-## Experience
+### RECENT EXPERIENCE
 
 _**Senior Software Engineer** | Tigera, Vancouer, Canada | May 2021 - Present_
 
@@ -43,10 +43,12 @@ _**System Developer** | Ericsson, Sweden | 2013 - 2015_
 - Optimized throughput by tuning host and guest kernel and by bypassing kernel using DPDK
 
 ### EDUCATION
+
 **MSc in Computer Science** | Chalmers University of Technology, Sweden | 2013<br/>
 **BSc in Electrical Engineering** | Iran University of Science and Technology, Iran | 2009<br/>
 
 ### SKILLS
+
 **Programming & Automation:** C, Go, Rust, Ansible, Python<br/>
 **Virtualization & SDN Controller:** Qemu/KVM, Docker, OpenStack, Kubernetes, VMware NSX<br/>
 **Linux Network Stack:** Netfilter/iptables, IPVS, Traffic Control, Socket API, eBPF/XDP<br/>
