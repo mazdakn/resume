@@ -1,10 +1,4 @@
----
-title: "Maz Nasab"
-output:
-  html_document:
-    css: style.css
----
-
+# Maz Nasab
 + 604 722 8959 | [mazdak.nasab@gmail.com](mailto:mazdak.nasab@gmail.com) | Vancouver, Canada<br/>
 [github.com/mazdakn](github.com/mazdakn) | [www.linkedin.com/in/mazdakn/](www.linkedin.com/in/mazdakn/)
 
