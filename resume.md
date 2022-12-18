@@ -1,5 +1,5 @@
 # Maz Nasab
-+1 604 722 8959 | [mazdak.nasab@gmail.com](mailto:mazdak.nasab@gmail.com) | Vancouver, Canada<br/>
++ 604 722 8959 | [mazdak.nasab@gmail.com](mailto:mazdak.nasab@gmail.com) | Vancouver, Canada<br/>
 [github.com/mazdakn](github.com/mazdakn) | [www.linkedin.com/in/mazdakn/](www.linkedin.com/in/mazdakn/)
 
 - **MSc in Computer Science, Networks and Distributed Systems**
@@ -41,12 +41,6 @@ _**System Developer** | Ericsson, Sweden | 2013 - 2015_
 - Transformed a TCP/HTTP proxy to a performant and scalable virtual network function on OpenStack
 - Automated deployment for zero touch provisioning to reduce the deployment time from days to minutes
 - Optimized throughput by tuning host and guest kernel and by bypassing kernel using DPDK
-
-_**Network Engineer** | Intern - Google, US | 2012_<br/>
-- Contributed to securing campus wireless network using Aruba access point and controller
-
-_**Researcher** | Ericsson, Sweden | 2011 - 2012_<br/>
-- Designed and prototyped a file system integrity function using virtual machines introspection in Xen
 
 ### EDUCATION
 **MSc in Computer Science** | Chalmers University of Technology, Sweden | 2013<br/>
