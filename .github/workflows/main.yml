@@ -15,9 +15,9 @@ jobs:
       - name: Markdown to PDF and HTML                      # (3)
         uses: BaileyJM02/markdown-to-pdf@v1.2.0
         with:
-          input_path: resume.md
+          input_path: ./README.md
       - name: Rename pdf
-        run: cp ./resume.pdf ./mazdak_nasab_resume.pdf
+        run: cp ./README.pdf ./mazdak_nasab_resume.pdf
       - name: Create Release                                # (4)
         id: create_release
         uses: actions/create-release@v1
