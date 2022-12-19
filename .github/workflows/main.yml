@@ -17,8 +17,6 @@ jobs:
         with:
           input_path: ./README.md
           output_dir: out
-      - name: Rename pdf
-        run: cp out/README.pdf ./maz_nasab_resume.pdf
       - name: Create Release                                # (4)
         id: create_release
         uses: actions/create-release@v1
@@ -36,10 +34,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./maz_nasab_resume.pdf
+          asset_path: out/README.pdf
           asset_name: maz_nasab_resume.pdf
           asset_content_type: application/pdf
-      - uses: actions/upload-artifact@v3
-        with:
-          name: mazdak_resume
-          path: maz_nasab_resume.pdf
