@@ -35,5 +35,9 @@ jobs:
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
           asset_path: out/README.pdf
-          asset_name: mazdak_nasab_resume.pdf
+          asset_name: maz_nasab_resume.pdf
           asset_content_type: application/pdf
+      - uses: actions/upload-artifact@v1
+        with:
+          name: out/README.pdf
+          path: maz_nasab_resume.pdf
