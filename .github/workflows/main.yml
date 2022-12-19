@@ -12,14 +12,12 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
-      - name: Remove swag line                              # (2)
-        run: sed -i '1d' README.md
       - name: Markdown to PDF and HTML                      # (3)
         uses: BaileyJM02/markdown-to-pdf@v1.2.0
         with:
           input_dir: .
           output_dir: out
-      - name: Rename pdf
+      - name: Rename pdf,e
         run: cp out/resume.pdf ./mazdak_nasab_resume.pdf
       - name: Create Release                                # (4)
         id: create_release
