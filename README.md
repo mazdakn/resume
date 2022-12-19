@@ -1,4 +1,4 @@
-# **Maz** Nasab
+# **MAZ** NASAB
 [mazdak.nasab@gmail.com](mailto:mazdak.nasab@gmail.com) | [github.com/mazdakn](github.com/mazdakn) | [www.linkedin.com/in/mazdakn/](www.linkedin.com/in/mazdakn/)
 
 - **MSc in Computer Science - Networks and Distributed Systems**
