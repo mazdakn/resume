@@ -35,4 +35,4 @@ jobs:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
           asset_path: ./README.pdf
           asset_name: mazdak_nasab_resume.pdf
-          asset_cntent_type: application/pdf
+          asset_content_type: application/pdf
