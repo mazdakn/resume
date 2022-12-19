@@ -16,7 +16,6 @@ jobs:
         uses: BaileyJM02/markdown-to-pdf@v1.2.0
         with:
           input_path: resume.md
-          output_dir: .
       - name: Rename pdf
         run: cp ./resume.pdf ./mazdak_nasab_resume.pdf
       - name: Create Release                                # (4)
