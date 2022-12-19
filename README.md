@@ -3,15 +3,16 @@
 
 - **MSc in Computer Science - Networks and Distributed Systems**
 - **Over 10 years** of experience designing and developing secure, robust and innovative network systems
-- Experienced in **Data Center Networking, Cloud Networking, Network Systems** and **Services**
-- Proficient in **Linux Network Stack, System Development, Network Programming** and **Automation**
+- Experienced in **Network Systems and Services, Cloud and Data Center Networking**
+- Proficient in **System Development, Network Programming***(C, Golang, Rust)* and **Automation***(Python, Ansible)*
+- Proficient in **Linux Network Stack***(eBPF/XDP, Netfilter/Iptables, Traffic Control, Socket API, IPVS)*
 - Advanced knowledge of **open source ecosystem** for building high available infrastructure
 
 ### RECENT EXPERIENCE
 
 _**Senior Software Engineer** | Tigera, Vancouer, Canada | May 2021 - Present_
 
-- Developing and maintaining next generation data plane of Calico CNI using eBPF/XDP
+- Developing and maintaining next generation data plane of Calico CNI using eBPF/XDP 
 - Designing and developing features using Linux connection tracking, packet filtering and Traffic Control
 - Developed a workload runtime security solution by monitoring syscalls and events using eBPF programs
 - Introduced stateless firewall capability in Calico BPF data plane by developing XDP programs
@@ -33,7 +34,7 @@ _**Senior Software Engineer** | Enea Software, Sweden | 2015 - 2017_
 
 - Contributed to OPNFV project, a carrier grade flavor of OpenStack for network function virtualization
 - Led a team of 3 engineers to design and develop a solution to virtualize customer premises equipments
-- Official Linux Foundation trainer for Open Source Virtualization course
+- Official Linux Foundation trainer for Open Source Virtualization course covering Qemu/KVM and Docker
 
 _**System Developer** | Ericsson, Sweden | 2013 - 2015_
 
@@ -45,9 +46,3 @@ _**System Developer** | Ericsson, Sweden | 2013 - 2015_
 
 **MSc in Computer Science - Networks and Distributed Systems**<br/>
 Chalmers University of Technology, Sweden | 2013
-
-### SKILLS
-
-**Programming & Automation:** C, Go, Rust, Ansible, Python<br/>
-**Virtualization & SDN Controller:** Qemu/KVM, Docker, OpenStack, Kubernetes, VMware NSX<br/>
-**Linux Network Stack:** Netfilter/iptables, IPVS, Traffic Control, Socket API, eBPF/XDP<br/>
