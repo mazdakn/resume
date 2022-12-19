@@ -43,8 +43,8 @@ _**System Developer** | Ericsson, Sweden | 2013 - 2015_
 
 ### EDUCATION
 
-**MSc in Computer Science** | Chalmers University of Technology, Sweden | 2013<br/>
-**BSc in Electrical Engineering** | Iran University of Science and Technology, Iran | 2009<br/>
+**MSc in Computer Science - Networks and Distributed Systems**<br/>
+Chalmers University of Technology, Sweden | 2013
 
 ### SKILLS
 
