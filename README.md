@@ -3,8 +3,8 @@
 
 - **MSc in Computer Science - Networks and Distributed Systems**
 - **Over 10 years** of experience designing and developing secure, robust and innovative network systems
-- Experienced in **Network Systems and Services, Cloud and Data Center Networking**
-- Proficient in **System and Network Development**(C, Golang, Rust) and **Automation**(Python, Ansible)
+- Experienced in **Network Systems** and **Services**, **Cloud** and **Data Center Networking**
+- Proficient in **System** and **Network Development**(C, Golang, Rust) and **Automation**(Python, Ansible)
 - Proficient in **Linux Network Stack**(eBPF/XDP, Netfilter/Iptables, Traffic Control, Socket API, IPVS)
 - Advanced knowledge of **open source ecosystem** for building high available infrastructure
 
