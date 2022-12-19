@@ -1,7 +1,7 @@
 # **Maz** Nasab
 [mazdak.nasab@gmail.com](mailto:mazdak.nasab@gmail.com) | [github.com/mazdakn](github.com/mazdakn) | [www.linkedin.com/in/mazdakn/](www.linkedin.com/in/mazdakn/)
 
-- **MSc in Computer Science, Networks and Distributed Systems**
+- **MSc in Computer Science - Networks and Distributed Systems** | Chalmers University of Science and Technology, Sweden
 - **Over 10 years** of experience designing and developing secure, robust and innovative network systems
 - Experienced in **Data Center Networking, Cloud Networking, Network Systems** and **Services**
 - Proficient in **Linux Network Stack, System Development, Network Programming** and **Automation**
