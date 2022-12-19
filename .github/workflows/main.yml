@@ -16,7 +16,9 @@ jobs:
         uses: BaileyJM02/markdown-to-pdf@v1.2.0
         with:
           input_path: ./README.md
-          output_dir: .
+          output_dir: out
+      - name: Rename pdf
+        run: cp out/README.pdf ./README.pdf
       - name: Create Release                                # (4)
         id: create_release
         uses: actions/create-release@v1
@@ -37,7 +39,7 @@ jobs:
           asset_path: ./README.pdf
           asset_name: maz_nasab_resume.pdf
           asset_content_type: application/pdf
-      - uses: actions/upload-artifact@v1
+      - uses: actions/upload-artifact@v3
         with:
           name: README.pdf
           path: maz_nasab_resume.pdf
