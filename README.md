@@ -10,12 +10,12 @@
 
 ### RECENT EXPERIENCE
 
-_**Senior Software Engineer** | Tigera, Vancouer, Canada | May 2021 - Present_
+_**Senior Software Engineer** | Tigera, Vancouver, Canada | May 2021 - Present_
 
 - Developing and maintaining next generation data plane of Calico CNI using eBPF/XDP 
 - Designing and developing features using Linux connection tracking, packet filtering and Traffic Control
-- Developed a workload runtime security solution by monitoring syscalls and events using eBPF programs
-- Introduced stateless firewall capability in Calico BPF data plane by developing XDP programs
+- Developed a workload run time security solution by monitoring syscalls and events using eBPF programs
+- Introduced stateless firewall capability in Calico eBPF data plane by developing XDP programs
 
 _**Network Security Architect** | Ericsson, Sweden | 2020 - 2021_
 
@@ -33,14 +33,14 @@ _**Cloud Architect - Network & Virtualization Specialist** | Ericsson, Sweden | 
 _**Senior Software Engineer** | Enea Software, Sweden | 2015 - 2017_
 
 - Contributed to OPNFV project, a carrier grade flavor of OpenStack for network function virtualization
-- Led a team of 3 engineers to design and develop a solution to virtualize customer premises equipments
+- Led a team of 3 engineers to design and develop a solution to virtualize customer premises equipment
 - Official Linux Foundation trainer for Open Source Virtualization course covering Qemu/KVM and Docker
 
 _**System Developer** | Ericsson, Sweden | 2013 - 2015_
 
 - Transformed a TCP/HTTP proxy to a performant and scalable virtual network function on OpenStack
 - Automated deployment for zero touch provisioning to reduce the deployment time from days to minutes
-- Optimized throughput by tuning host and guest kernel and by bypassing kernel using DPDK
+- Optimized throughput by tuning host and guest kernel and by bypassing kernel using Intel DPDK
 
 ### EDUCATION
 
