@@ -14,7 +14,7 @@ _**Senior Software Engineer** | Tigera, Vancouver, Canada | May 2021 - Present_
 
 - Developing and maintaining next generation data plane of Calico CNI using eBPF/XDP 
 - Designing and developing features using Linux connection tracking, packet filtering and Traffic Control
-- Developed a workload run time security solution by monitoring syscalls and events using eBPF programs
+- Developed a workload runtime security solution by monitoring syscalls and events using eBPF programs
 - Introduced stateless firewall capability in Calico eBPF data plane by developing XDP programs
 
 _**Network Security Architect** | Ericsson, Sweden | 2020 - 2021_
