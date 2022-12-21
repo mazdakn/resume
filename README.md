@@ -1,5 +1,5 @@
 # MAZ NASAB
-[mazdak.nasab@gmail.com](mailto:mazdak.nasab@gmail.com) | [GitHub](https://github.com/mazdakn) | [LinkedIn](https://www.linkedin.com/in/mazdakn/)
+[Email](mailto:mazdak.nasab@gmail.com) | [GitHub](https://github.com/mazdakn) | [LinkedIn](https://www.linkedin.com/in/mazdakn/)
 
 - **MSc in Computer Science - Networks and Distributed Systems**
 - **Over 10 years** of experience designing and developing secure, robust and innovative network systems
