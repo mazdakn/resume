@@ -16,7 +16,7 @@ _**Senior Software Engineer** | Tigera, Vancouver, Canada | May 2021 - Present_
 - Designed and developed egress gateway functionality in Azure to control workload's outbound traffic
 - Developed a workload run time security solution by monitoring syscalls and events using eBPF
 
-_**Senior Software Engineer** | Project Calico | May 2021 - Present_
+_**Core Developer** | Project Calico | May 2021 - Present_
 
 - Developing and maintaining Project Calico data plane using Linux Iptables and eBPF/XDP
 - Designing and developing features using Linux connection tracking, packet filtering and Traffic Control
